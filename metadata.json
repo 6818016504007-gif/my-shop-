@@ -1,0 +1,6 @@
+{
+  "name": "AquaPure - บริการจัดส่งน้ำดื่มบริสุทธิ์",
+  "description": "ระบบสั่งซื้อและสมัครสมาชิกน้ำดื่มบริสุทธิ์ถึงบ้านและสำนักงาน พร้อมติดตามการจัดส่งแบบเรียลไทม์และตรวจสอบมาตรฐานความสะอาด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
